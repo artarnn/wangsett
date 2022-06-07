@@ -1,5 +1,5 @@
 <?php
-//VYKGE";
+//VYKGE
 $reff = "VYKGE";
 
 ?>
